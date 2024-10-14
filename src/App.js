@@ -1,8 +1,8 @@
 import React, { useState, useEffect } from 'react';
 import { v4 as uuidv4 } from 'uuid';
-import Task from './Task';
-import TaskForm from './TaskForm';
-import CategoryFilter from './CategoryFilter';
+import Task from './components/Task';
+import TaskForm from './components/TaskForm';
+import CategoryFilter from './components/CategoryFilter';
 import { Container, CssBaseline, AppBar, Toolbar, Typography, IconButton } from '@mui/material';
 import { AssignmentTurnedIn, Brightness4, Brightness7 } from '@mui/icons-material';
 import { ThemeProvider, createTheme } from '@mui/material/styles';
