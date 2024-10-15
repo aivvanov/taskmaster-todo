@@ -16,10 +16,10 @@
 ## 📸 Screenshots
 
 ### Light Mode:
-![Light Mode](./screenshots/lightmode-screenshot.png)
+<img src="./screenshots/lightmode-screenshot.png" alt="Light Mode" width="400"/>
 
 ### Dark Mode:
-![Dark Mode](./screenshots/darkmode-screenshot.png)
+<img src="./screenshots/darkmode-screenshot.png" alt="Dark Mode" width="400"/>
 
 ## 🛠️ Technologies Used
 
