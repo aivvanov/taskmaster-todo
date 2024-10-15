@@ -2,7 +2,7 @@
 
 **TaskMaster** is a modern, intuitive, and fully customizable ToDo application that helps you stay organized and productive. Whether you're managing personal tasks or work-related projects, TaskMaster makes task management easy and enjoyable. With a clean UI, dark mode support, drag-and-drop task sorting, and a progress tracker, TaskMaster brings all the features you need to stay on top of your to-dos.
 
-![TaskMaster Preview](./screenshots/taskmaster-preview.png)
+![TaskMaster Preview](./screenshots/taskmaster-screenshot.png)
 
 ## ✨ Key Features
 
@@ -16,10 +16,10 @@
 ## 📸 Screenshots
 
 ### Light Mode:
-![Light Mode](./screenshots/taskmaster-light.png)
+![Light Mode](./screenshots/lightmode-screenshot.png)
 
 ### Dark Mode:
-![Dark Mode](./screenshots/taskmaster-dark.png)
+![Dark Mode](./screenshots/darkmode-screenshot.png)
 
 ## 🛠️ Technologies Used
 
