@@ -32,7 +32,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/taskmaster-todo.git
+   git clone https://github.com/aivvanov/taskmaster-todo.git
 2. Navigate to the project directory:
    ```bash
    cd taskmaster-todo
